@@ -1,0 +1,16 @@
+import Splashscreen from './Splashscreen'
+import Home from './Home'
+import History from './History'
+import Allmovie from './Allmovie'
+import Search from './Search'
+import Login from './Login'
+import Profile from './Profile'
+import PreviewMovie from './PreviewMovie'
+import PlayerMovie from './PlayerMovie'
+import Player from './Player'
+import Pickgenre from './Pickgenre'
+import Storymovie from './Storymovie'
+import Genreshow from './Genreshow'
+import Menu from './Menu'
+
+export {Splashscreen,Home,History,Allmovie,Search,Login,Profile,PreviewMovie,PlayerMovie,Player,Pickgenre,Storymovie,Genreshow,Menu}
